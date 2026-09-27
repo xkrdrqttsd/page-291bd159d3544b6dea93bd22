@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.u4847x.cn/sitemap.xml
